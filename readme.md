@@ -1,7 +1,7 @@
 
 # RecGPT: A recommender system that uses OpenAI API
 
-This code uses Spotify Web API to fetch your Spotify data. With that it asks GPT to come up with more recommendations. You can run this demo directly or [walk through the tutorial](https://developer.spotify.com/documentation/web-api/howto/web-app-profile).
+This code uses Spotify Web API to fetch your Spotify user data, then asks GPT to come up with more recommendations.
 
 ## Pre-requisites
 
